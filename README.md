@@ -1,62 +1,98 @@
-# 👋 Hi, I'm a Software Engineer
+# 👋 Hi, I'm Ali Ragab
 
-🎯 Passionate Software Engineer with a strong background in multiple technologies.  
-🚀 Currently focused on mastering **Java & Spring Framework**.  
-💡 Always learning, building, and improving problem-solving skills.  
-
----
-
-## 🧠 About Me
-
-- 💻 Software Engineer  
-- 🔥 Strong problem-solving skills  
-- 📚 Continuous learner  
-- ⚡ Experienced with multiple tech stacks  
-- 🎯 Currently specializing in **Java & Spring**
+💻 Software Engineer  
+🚀 Passionate about building scalable applications and learning new technologies  
+🎯 Currently focused on **Java & Spring Boot**
 
 ---
 
-## 🛠️ My Favorite Tools & Technologies
+## 📫 Connect with Me
 
-### 💻 Languages & Frameworks
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat&logo=spring)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)
-![.NET](https://img.shields.io/badge/-.NET-black?style=flat&logo=dotnet)
+- 📧 alighonim78@gmail.com  
+- <img src="https://skillicons.dev/icons?i=linkedin" width="20"/> [LinkedIn](https://www.linkedin.com/in/ali-ragab-b139b8223/)
+
+---
+
+## 💻 My Favorite Tools and Technologies
+
+### ⚙️ Backend & Frameworks
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring" width="50"/><br>Spring</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>Laravel</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="50"/><br>C#</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br>.NET</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
+</tr>
+</table>
 
 ---
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![ES6](https://img.shields.io/badge/-ES6-black?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="50"/><br>Angular</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
+<td align="center"></td>
+</tr>
+</table>
 
 ---
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=database)
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br>SQL</td>
+</tr>
+</table>
 
 ---
 
-### ⚙️ Tools & Concepts
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+### 🛠️ Tools
+
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="50"/><br>Visual Studio</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=intellij" width="50"/><br>IntelliJ</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</table>
 
 ---
 
-### 📚 Concepts
+## 🧠 Concepts & Skills
+
+- 🧩 Problem Solving  
 - 🧠 SOLID Principles  
 - ⚡ Agile Methodology  
-- 🧩 Problem Solving  
 
 ---
 
@@ -66,6 +102,3 @@
 + Java
 + Spring Boot
 + Backend Development
-
-
-📫 How to reach me
