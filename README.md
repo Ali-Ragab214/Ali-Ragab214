@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ali Ragab
+#  Hi, I'm Ali Ragab
 
 💻 Software Engineer  
 🚀 Passionate about building scalable applications and learning new technologies  
