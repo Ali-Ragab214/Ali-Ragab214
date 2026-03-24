@@ -1,26 +1,39 @@
-#  Hi, I'm Ali Ragab
+# 👋 Hi, I'm Ali Ragab
 
-💻 Software Engineer  
-🚀 Passionate about building scalable applications and learning new technologies  
-🎯 Currently focused on **Java & Spring Boot**
+💻 **Software Engineer**
+
+🚀 Passionate about building scalable applications and exploring new technologies
+
+🎯 Currently focused on **Java, Spring Boot & Backend Development**
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 alighonim78@gmail.com  
-- <img src="https://skillicons.dev/icons?i=linkedin" width="20"/> [LinkedIn](https://www.linkedin.com/in/ali-ragab-b139b8223/)
+* 📧 [alighonim78@gmail.com](mailto:alighonim78@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ali-ragab-b139b8223/)
 
 ---
 
-## 💻 My Favorite Tools and Technologies
+## 🚀 About Me
+
+* 💡 Software Engineer with a strong foundation in programming and problem solving
+* ⚡ Interested in building real-world applications and improving system design skills
+* 🧠 Solid understanding of **OOP, SOLID Principles & Software Fundamentals**
+* 🤝 Interested in **Open Source contributions**
+* 📈 Continuously learning and growing in the software engineering field
+
+---
+
+## 💻 Tech Stack
 
 ### ⚙️ Backend & Frameworks
 
 <table>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=spring" width="50"/><br>Spring</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring" width="50"/><br>Spring Boot</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="50"/><br>Hibernate</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>Laravel</td>
 </tr>
@@ -30,6 +43,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br>.NET</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
+<td></td>
 </tr>
 </table>
 
@@ -49,7 +63,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="50"/><br>Angular</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma</td>
-<td align="center"></td>
+<td></td>
 </tr>
 </table>
 
@@ -79,26 +93,31 @@
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=intellij" width="50"/><br>IntelliJ</td>
-<td align="center"></td>
-<td align="center"></td>
-<td align="center"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=intellij" width="50"/><br>IntelliJ IDEA</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
 ---
 
-## 🧠 Concepts & Skills
+## 🧠 Core Concepts
 
-- 🧩 Problem Solving  
-- 🧠 SOLID Principles  
-- ⚡ Agile Methodology  
+* 🧩 Object-Oriented Programming (OOP)
+* 🧠 SOLID Principles
+* ⚡ Agile Methodology
+* 🔗 RESTful APIs
+* 🗄️ ORM (Hibernate & JPA Basics)
 
 ---
 
 ## 🚀 Current Focus
 
 ```diff
-+ Java
-+ Spring Boot
++ Java & Spring Boot
++ Hibernate & JPA
 + Backend Development
++ Improving Problem Solving
++ Building Real Projects
+```
