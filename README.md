@@ -1,27 +1,27 @@
-# 👋 Hi, I'm Ali Ragab
+#  Hi, I'm Ali Ragab
 
-💻 **Software Engineer**
+💻 **Software Engineer | Java & Spring Specialist**
 
-🚀 Passionate about building scalable applications and exploring new technologies
+🚀 Passionate about building scalable, clean, and maintainable systems
 
-🎯 Currently focused on **Java, Spring Boot & Backend Development**
+🌍 Strong believer in **Open Source mindset & collaborative development**
+
+---
+
+## 🚀 About Me
+
+* 💡 Software Engineer specialized in **Java & Spring Ecosystem**
+* 🧠 Strong foundation in **OOP, SOLID Principles & System Design**
+* ⚡ Focused on building **scalable and production-ready applications**
+* 🤝 Interested in **Open Source contributions & teamwork environments**
+* 📈 Continuously improving in **architecture, performance & best practices**
 
 ---
 
 ## 📫 Connect with Me
 
 * 📧 [alighonim78@gmail.com](mailto:alighonim78@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/ali-ragab-b139b8223/)
-
----
-
-## 🚀 About Me
-
-* 💡 Software Engineer with a strong foundation in programming and problem solving
-* ⚡ Interested in building real-world applications and improving system design skills
-* 🧠 Solid understanding of **OOP, SOLID Principles & Software Fundamentals**
-* 🤝 Interested in **Open Source contributions**
-* 📈 Continuously learning and growing in the software engineering field
+* 💼 https://www.linkedin.com/in/ali-ragab-b139b8223/
 
 ---
 
@@ -34,16 +34,16 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="50"/><br>Spring Boot</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="50"/><br>Hibernate</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>Laravel</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/><br>Spring Data</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
 </tr>
 
 <tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>Laravel</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="50"/><br>C#</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br>.NET</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
-<td></td>
 </tr>
 </table>
 
@@ -108,16 +108,17 @@
 * 🧠 SOLID Principles
 * ⚡ Agile Methodology
 * 🔗 RESTful APIs
-* 🗄️ ORM (Hibernate & JPA Basics)
+* 🗄️ ORM (JPA & Hibernate)
+* 🏗️ Clean Architecture Basics
 
 ---
 
-## 🚀 Current Focus
+## 🎯 What I Focus On
 
 ```diff
-+ Java & Spring Boot
-+ Hibernate & JPA
-+ Backend Development
-+ Improving Problem Solving
-+ Building Real Projects
++ Building scalable backend systems
++ Writing clean and maintainable code
++ Applying design patterns and best practices
++ Thinking with an open-source mindset
++ Improving system design and architecture skills
 ```
