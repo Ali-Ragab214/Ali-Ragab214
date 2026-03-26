@@ -1,9 +1,8 @@
-#  Hi, I'm Ali Ragab
+# 👋 Hi, I'm Ali Ragab
 
 💻 **Software Engineer | Java & Spring Specialist**
 
 🚀 Passionate about building scalable, clean, and maintainable systems
-
 🌍 Strong believer in **Open Source mindset & collaborative development**
 
 ---
@@ -76,7 +75,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br>SQL</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/><br>SQL Server</td>
 </tr>
 </table>
 
@@ -115,7 +114,7 @@
 
 ## 🎯 What I Focus On
 
-```diff
+```diff id="g3c0d9"
 + Building scalable backend systems
 + Writing clean and maintainable code
 + Applying design patterns and best practices
