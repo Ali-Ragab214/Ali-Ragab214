@@ -33,16 +33,24 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50"/><br>Java</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="50"/><br>Spring Boot</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="50"/><br>Hibernate</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50"/><br>Spring Data</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ruby" width="50"/><br>Ruby</td>
 </tr>
 
 <tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=rails" width="50"/><br>Ruby on Rails</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="50"/><br>Laravel</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="50"/><br>C#</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="50"/><br>.NET</td>
+</tr>
+
+<tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
