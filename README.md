@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ali Ragab
 
-💻 **Software Engineer | Java & Spring Specialist**
+💻 **Software Engineer specialized in Backend Development using Java & Spring Boot, with working knowledge of frontend technologies for building full-stack applications.**
 
 🚀 Passionate about building scalable, clean, and maintainable systems
 🌍 Strong believer in **Open Source mindset & collaborative development**
