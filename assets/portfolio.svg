@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="84" viewBox="0 0 320 84" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace">
+  <rect x="1" y="1" width="318" height="82" rx="10" fill="#161b22" stroke="#30363d"/>
+  <circle cx="18" cy="17" r="4" fill="#ff5f56"/>
+  <circle cx="32" cy="17" r="4" fill="#ffbd2e"/>
+  <circle cx="46" cy="17" r="4" fill="#27c93f"/>
+  <line x1="1" y1="32" x2="319" y2="32" stroke="#30363d"/>
+  <text x="18" y="54" font-size="14" fill="#7ee787">$</text>
+  <text x="34" y="54" font-size="14" fill="#c9d1d9">visit <tspan fill="#ffa657" font-weight="bold">portfolio</tspan></text>
+  <text x="18" y="72" font-size="12" fill="#8b949e">&gt; view my work</text>
+</svg>
