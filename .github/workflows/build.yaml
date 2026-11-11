@@ -8,9 +8,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -23,11 +28,14 @@ jobs:
 
       - name: Update stats in the SVG files
         run: python today.py
+        timeout-minutes: 40
         env:
+          PYTHONUNBUFFERED: '1'
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USER_NAME: ${{ secrets.USER_NAME }}
 
       - name: Commit changes
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
